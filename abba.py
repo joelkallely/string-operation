@@ -1,4 +1,4 @@
-def abba_pattern(a,b):
+jkhuihidef abba_pattern(a,b):
 	c=a+b
 	c=c+(b+a)
 	return c
